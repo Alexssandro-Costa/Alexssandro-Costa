@@ -1,4 +1,4 @@
-# Olá! Eu sou Alexsandro 👋
+# Olá! Eu sou Alexssandro 👋
 
 Estudante de Ciência da Computação com foco em desenvolvimento Back-end.
 
