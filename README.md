@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou Alexsandro 👋
 
-<!--
-**Alexssandro-Costa/Alexssandro-Costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação com foco em desenvolvimento Back-end.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Spring Data JPA
+- Spring Security
+- PostgreSQL
+- Maven
+- JUnit
+- Mockito
+
+## Projeto em destaque
+
+🔹 Sistema Bancário Simplificado
+
+Projeto desenvolvido para consolidar conhecimentos em Java e Spring Boot, evoluindo de uma aplicação baseada em arquivos para uma API REST com PostgreSQL, autenticação JWT e testes automatizados.
+
+https://github.com/Alexssandro-Costa/Simple-Banking-System
