@@ -13,6 +13,9 @@ Estudante de Ciência da Computação com foco em desenvolvimento Back-end.
 - JUnit
 - Mockito
 - Docker
+- javascript
+- HTML
+- CSS
 
 ## Projeto em destaque
 
